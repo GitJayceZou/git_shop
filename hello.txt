@@ -2,3 +2,4 @@ insert user management!
 insert user mobile management!
 insert brand management!
 insert brand mobile management!
+insert advertise management!
