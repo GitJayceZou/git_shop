@@ -4,3 +4,4 @@ insert brand management!
 insert brand mobile management!
 insert advertise management!
 insert advertise mobile management!
+insert class management!
