@@ -22,4 +22,8 @@ public class hello{
 	public void test6(){
 		
 	}
+
+	public void test7(){
+		
+	}
 }
